@@ -69,7 +69,3 @@ Le projet intègre un **mode sécurisé** permettant d’exécuter uniquement la
 
 ```bash
 python calculatrice.py --safe
-
-
-## 📁 Structure du projet
-
